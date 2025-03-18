@@ -19,6 +19,8 @@ Purchase Drivers – Interactive summary of key performance indicators.
 
 📷 Project Cover
 
+![Project Cover1](https://github.com/marcingwizdek/DataScope/blob/main/Project%20Cover/1.PNG)
+
 🔧 Technologies and Tools
 
 Power BI – Data visualization and analysis.
