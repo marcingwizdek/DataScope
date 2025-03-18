@@ -42,7 +42,7 @@ Explore interactive visualizations and analyze results.
 
 📝 Author
 
-Marcin GwizdekContact: contact@marcingwizdek.pl
+Marcin Gwizdek Contact: kontakt@marcingwizdek.pl
 
 📌 Notes
 
