@@ -20,6 +20,9 @@ Purchase Drivers – Interactive summary of key performance indicators.
 📷 Project Cover
 
 ![Project Cover1](https://github.com/marcingwizdek/DataScope/blob/main/Project%20Cover/1.PNG)
+![Project Cover2](https://github.com/marcingwizdek/DataScope/blob/main/Project%20Cover/2.PNG)
+![Project Cover3](https://github.com/marcingwizdek/DataScope/blob/main/Project%20Cover/3.PNG)
+![Project Cover4](https://github.com/marcingwizdek/DataScope/blob/main/Project%20Cover/4.PNG)
 
 🔧 Technologies and Tools
 
